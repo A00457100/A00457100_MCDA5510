@@ -1,0 +1,7 @@
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\bin\Debug\A000457100_Assignment1.exe.config
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\bin\Debug\A000457100_Assignment1.exe
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\bin\Debug\A000457100_Assignment1.pdb
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\obj\Debug\A00457100_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\obj\Debug\A000457100_Assignment1.exe
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\obj\Debug\A000457100_Assignment1.pdb
+C:\Users\muralitulluri\source\repos\A000457100_Assignment1\A000457100_Assignment1\obj\Debug\A00457100_Assignment1.csproj.AssemblyReference.cache
