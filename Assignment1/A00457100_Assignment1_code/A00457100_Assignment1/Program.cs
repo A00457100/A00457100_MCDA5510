@@ -101,7 +101,7 @@ namespace A00457100_Assignment1
                         // Console.WriteLine("File:" + date_custom);
                     }
                     else day = path_split[3];
-                    date_custom = year1 + "-" + month1 + "-" + day;
+                    date_custom = year1 + "/" + month1 + "/" + day;
                     //Console.WriteLine("File:" + date_custom);
                     // Console.WriteLine("Call the file parser");
                     simpleCSV.parse(@filepath, date_custom);
