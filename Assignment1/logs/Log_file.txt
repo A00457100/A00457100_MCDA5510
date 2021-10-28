@@ -1,4 +1,4 @@
 This program merges all the CSV files by rejecting any invalid records
-Execution Time: 26099 ms
-Number of total correct lines excluding header are : 201075
-Number of total skipped lines are : 81834
+Execution Time: 23934 ms
+Number of total correct lines excluding header are : 201076
+Number of total skipped lines are : 81835
